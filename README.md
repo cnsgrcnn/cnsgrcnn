@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1 align="center">Cansu Gürcan</h1>
-<h3 align="center">Industrial Engineer • Data, Systems & Process Optimization</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Cansu%20Gürcan&fontSize=52&fontColor=BB86FC&font=Allura" />
 
 ### Industrial Engineer • Data, Systems & Process Optimization
 
