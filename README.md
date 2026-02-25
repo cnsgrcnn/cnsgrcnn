@@ -1,30 +1,22 @@
 <div align="center">
 
-# Cansu Gürcan
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=header&text=Cansu%20Gürcan&fontSize=40&fontAlignY=55&animation=fadeIn&fontColor=ffffff" />
 
 ### Industrial Engineer • Data, Systems & Process Optimization
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=SAP+ERP+(MM%2FPP%2FSD)+%7C+Power+BI+%7C+Excel+VBA;Manufacturing+Analytics+%7C+KPI+Tracking+%7C+Process+Optimization;Turning+data+into+clear+decisions+and+measurable+impact" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://cansugurcan.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-ff4fd8?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:cnsugurcan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/cansu-g-6913771b9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-34d3ff?style=for-the-badge&logo=linkedin&logoColor=0b1020" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&center=true&vCenter=true&width=700&color=BB86FC&lines=SAP+ERP+(MM%2FPP%2FSD)+%7C+Power+BI+%7C+Excel+VBA;Manufacturing+Analytics+%7C+KPI+Tracking+%7C+Process+Optimization;Turning+data+into+clear+decisions+and+measurable+impact" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SAP-ERP-0FAAFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" />
-<img src="https://img.shields.io/badge/Excel-Advanced-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/VBA-Automation-a78bfa?style=flat-square" />
-<img src="https://img.shields.io/badge/Kaizen-Continuous%20Improvement-ff4fd8?style=flat-square" />
+<a href="https://cansugurcan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:cnsugurcan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cansu-g-6913771b9">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
@@ -32,83 +24,66 @@
 
 ## 🚀 Snapshot
 
-- **Role:** Production Engineer (Manufacturing)  
-- **Focus:** KPI-driven analytics, system optimization, automation  
-- **Tools:** SAP ERP (MM/PP/SD), Power BI, Excel (Advanced), VBA
+**Role:** Production Engineer  
+**Focus:** Data Analytics • SAP Systems • Process Optimization  
 
-> I build reporting and automation solutions that make operations **measurable**, **repeatable**, and **faster**.
-
----
-
-## 🧭 What I Do
-
-✅ **Manufacturing Analytics** — KPI tracking, defect analysis, performance monitoring  
-✅ **System & Process Optimization** — standardization, bottleneck identification, improvement actions  
-✅ **Automation** — Excel VBA tools to reduce manual effort and improve data accuracy  
-✅ **Data Storytelling** — Power BI dashboards and clear reporting for decision-makers  
+I design KPI-driven reporting, automation tools, and analytics frameworks that improve operational visibility and decision quality.
 
 ---
 
-## 🧰 Toolbox
+## 🧠 What I Work On
 
-**Systems & BI**  
-- SAP ERP (MM / PP / SD)  
-- Power BI (DAX, Power Query, data modeling)  
-
-**Automation & Data**  
-- Excel (Advanced)  
-- Excel VBA / Macros  
-- Power Query / Power Pivot  
-
-**Methods**  
-- KPI Management  
-- Root Cause Analysis (RCA)  
-- Continuous Improvement / Kaizen  
-- Process Standardization  
+• Manufacturing Analytics & KPI Management  
+• SAP ERP Processes (MM / PP / SD)  
+• Excel VBA Automation & Reporting Systems  
+• Power BI Dashboards & Data Visualization  
+• Process Optimization & Continuous Improvement  
 
 ---
 
-## ✨ Selected Impact (Highlights)
+## ✨ Selected Impact
 
-- **+25%** operational efficiency improvement through performance analytics & KPI follow-up  
-- **2h → 10m** reduction in manual reporting effort via Excel VBA automation  
-- Delivered improvement recommendations enabling **one forklift reduction** (flow analysis)
+✔ +25% Operational Efficiency Improvement  
+✔ 2h → 10m Reporting Automation via VBA  
+✔ Forklift Flow Optimization & Resource Reduction  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
-### 🔥 Forklift Optimization (Spaghetti Diagram)
-- Visualized material flow and daily handling patterns  
-- Identified route inefficiencies and non-value-added transport  
-- Proposed changes that supported a **reduction of one forklift** while keeping operations stable
+### 🔹 Forklift Optimization (Spaghetti Diagram)
+- Visualized material & movement flows  
+- Identified inefficiencies and non-value-added transport  
+- Delivered optimization insights enabling resource reduction  
 
-### 📊 Power BI in Manufacturing (Graduation Project)
-- Designed dashboards to improve KPI visibility  
-- Converted complex datasets into actionable insights  
-- Improved operational transparency through data visualization
+### 🔹 Power BI in Manufacturing
+- Designed KPI dashboards  
+- Converted complex datasets into decision-support visuals  
+- Improved operational transparency  
 
 ---
 
 ## 🌱 Currently Improving
-- SAP process depth (MM/PP/SD)  
-- Analytics storytelling & dashboard design  
-- Planning / supply chain analytics foundations
+
+SAP Process Depth • Advanced Analytics • Planning & Decision Systems  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Contact
 
 📍 Istanbul, Türkiye  
 📧 **cnsugurcan@gmail.com**  
 📞 **(+90) 551 553 21 14**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/cansu-g-6913771b9  
-🌐 **Portfolio:** https://cansugurcan.github.io  
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/cansu-g-6913771b9  
+
+🌐 **Portfolio:**  
+https://cansugurcan.github.io  
 
 ---
 
 <div align="center">
 
-⭐ *Building smarter systems, clearer insights, and measurable results.*
+⭐ *Focused on building smarter systems, clearer insights, and measurable results.*
 
 </div>
