@@ -18,22 +18,22 @@
 
 ---
 
-## [cite_start]<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> Hakkımda [cite: 3, 6]
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> Hakkımda
 
 ```javascript
 const cansu = {
-    [cite_start]location: "İstanbul, Türkiye 🇹🇷", // [cite: 1]
-    role: "Industrial Engineer - Data, Systems & Analytics", // [cite: 4]
-    experience: "Production Engineer @ Eczacıbaşı Building Products", // [cite: 11]
-    education: "Eskişehir Osmangazi University - Industrial Engineering", // [cite: 33]
+    location: "Beşiktaş, İstanbul, TR", 
+    role: "Industrial Engineer - Data, Systems & Analytics", 
+    experience: "Production Engineer @ Eczacıbaşı Building Products", 
+    education: "Eskişehir Osmangazi University - Industrial Engineering", 
     
     technical_skills: {
-        erp: ["SAP ERP (MM, SD, PP)"], // 
-        data_analysis: ["Excel VBA", "Power BI", "DAX", "Power Query"], // [cite: 35, 42]
-        optimization: ["Lean Manufacturing", "Kaizen", "Root Cause Analysis (RCA)"], // [cite: 14, 35]
-        methodologies: ["Six Sigma", "Process Standardization", "Spaghetti Diagrams"] // [cite: 25, 35]
+        erp: ["SAP ERP (MM, SD, PP)"], 
+        data_analysis: ["Excel VBA", "Power BI", "DAX", "Power Query"], 
+        optimization: ["Lean Manufacturing", "Kaizen", "Root Cause Analysis (RCA)"], 
+        methodologies: ["Six Sigma", "Process Standardization", "Spaghetti Diagrams"] 
     },
     
-    currentFocus: "Digital transformation in production environments", // 
-    impact: "Achieved +25% operational efficiency improvement 🚀" // [cite: 12]
+    currentFocus: "Digital transformation in production environments",
+    impact: "Achieved +25% operational efficiency improvement 🚀" 
 };
