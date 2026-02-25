@@ -1,154 +1,114 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cansu%20G%C3%BCrcan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Industrial%20Engineer%20%7C%20Data%2C%20Systems%20%26%20Analytics&descSize=16&descAlignY=52" width="100%"/>
+# Cansu Gürcan
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Data-driven+Industrial+Engineer+%F0%9F%93%8A;SAP+ERP+(MM%2FPP%2FSD)+%7C+Excel+VBA+%7C+Power+BI;Process+Optimization+%26+Continuous+Improvement" alt="Typing SVG" />
-</a>
+### Industrial Engineer • Data, Systems & Process Optimization
 
-<!-- Profile Views -->
-<p>
-  <!-- Replace YOUR_GITHUB_USERNAME -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/cansu-g-6913771b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cnsugurcan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cnsugurcan%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 👋 Hakkımda | About Me
-
-```yaml
-name: Cansu Gürcan
-role: Industrial Engineer – Data, Systems & Analytics
-location: Beşiktaş, İstanbul 🇹🇷
-current_focus:
-  - SAP ERP (MM / PP / SD)
-  - Power BI & KPI dashboards
-  - Excel VBA automation
-  - Process analytics & standardization
-strengths:
-  - Data analysis & reporting
-  - Cross-functional collaboration
-  - Root Cause Analysis (RCA)
-  - Kaizen & continuous improvement
-languages:
-  - English (Advanced)
-fun_fact: "I turn messy data into decisions ☕ → 📊"
-```
-
-### Ne yapıyorum?
-- Üretim ortamında **KPI takibi, verimlilik analizi, hata/defect analizi** ve **süreç iyileştirme** projeleri yürütüyorum.  
-- **Excel VBA** ile manuel işleri otomatikleştirerek **2 saat → 10 dakika** gibi ciddi zaman kazançları sağlayan çözümler geliştirdim.  
-- **SAP (MM/PP/SD)** ve **Power BI** tarafında sistem odaklı, veriyle desteklenen iyileştirmelere odaklanıyorum.
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-### 💻 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=excel,python&theme=dark" />
-</p>
-
-### 🧩 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-### ⚙️ Systems
-<p>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP-1a1a2e?style=for-the-badge" />
-</p>
-
-### 🗄️ Data
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🔥 GitHub Stats
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 Öne Çıkan Projeler | Featured Projects
-
-### 1) Excel VBA Automation — Mold Lifetime / Tracking
-- Manuel güncelleme süresini **2 saatten 10 dakikaya** düşüren butonlu otomasyon
-- Standartlaştırılmış raporlama & veri doğruluğu iyileştirmesi  
-**Tech:** Excel VBA, KPI tracking, process standardization
-
-### 2) Forklift Optimization — Spaghetti Diagram
-- Günlük hareketleri analiz ederek **rota verimsizliklerini** ve **NVAs** noktalarını tespit ettim
-- Operasyon devamlılığını koruyarak **1 forklift azaltımı** için öneriler geliştirdim  
-**Tech:** Data analysis, material flow, lean tools
-
-### 3) Power BI — Graduation Project (Production Department)
-- Üretim verilerini anlaşılır dashboard’lara çevirip karar alma sürecini hızlandırdım  
-**Tech:** Power BI, (basic) DAX, visualization & reporting
-
----
-
-## 🎓 Sertifikalar | Certifications (Selected)
-- SAP Professional Training (MM–SD–PP) — **Jan 2026**
-- Power Query | Power Pivot | Power BI | DAX — **Jun 2024**
-- Excel VBA (Macro) — **Jun 2024**
-- Business Analysis Specialist (IIBA) — **Nov 2023**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🤝 İletişim | Let's Connect
-
-<div align="center">
-
-<a href="mailto:cnsugurcan@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-cnsugurcan%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/cansu-g-6913771b9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=SAP+ERP+(MM%2FPP%2FSD)+%7C+Power+BI+%7C+Excel+VBA;Manufacturing+Analytics+%7C+KPI+Tracking+%7C+Process+Optimization;Turning+data+into+clear+decisions+and+measurable+impact" alt="Typing SVG" />
 
 <br/>
 
-<!-- Snake Animation (optional) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+<a href="https://cansugurcan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-ff4fd8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:cnsugurcan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/cansu-g-6913771b9">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-34d3ff?style=for-the-badge&logo=linkedin&logoColor=0b1020" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAP-ERP-0FAAFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-Advanced-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/VBA-Automation-a78bfa?style=flat-square" />
+<img src="https://img.shields.io/badge/Kaizen-Continuous%20Improvement-ff4fd8?style=flat-square" />
+
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+---
+
+## 🚀 Snapshot
+
+- **Role:** Production Engineer (Manufacturing)  
+- **Focus:** KPI-driven analytics, system optimization, automation  
+- **Tools:** SAP ERP (MM/PP/SD), Power BI, Excel (Advanced), VBA
+
+> I build reporting and automation solutions that make operations **measurable**, **repeatable**, and **faster**.
+
+---
+
+## 🧭 What I Do
+
+✅ **Manufacturing Analytics** — KPI tracking, defect analysis, performance monitoring  
+✅ **System & Process Optimization** — standardization, bottleneck identification, improvement actions  
+✅ **Automation** — Excel VBA tools to reduce manual effort and improve data accuracy  
+✅ **Data Storytelling** — Power BI dashboards and clear reporting for decision-makers  
+
+---
+
+## 🧰 Toolbox
+
+**Systems & BI**  
+- SAP ERP (MM / PP / SD)  
+- Power BI (DAX, Power Query, data modeling)  
+
+**Automation & Data**  
+- Excel (Advanced)  
+- Excel VBA / Macros  
+- Power Query / Power Pivot  
+
+**Methods**  
+- KPI Management  
+- Root Cause Analysis (RCA)  
+- Continuous Improvement / Kaizen  
+- Process Standardization  
+
+---
+
+## ✨ Selected Impact (Highlights)
+
+- **+25%** operational efficiency improvement through performance analytics & KPI follow-up  
+- **2h → 10m** reduction in manual reporting effort via Excel VBA automation  
+- Delivered improvement recommendations enabling **one forklift reduction** (flow analysis)
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Forklift Optimization (Spaghetti Diagram)
+- Visualized material flow and daily handling patterns  
+- Identified route inefficiencies and non-value-added transport  
+- Proposed changes that supported a **reduction of one forklift** while keeping operations stable
+
+### 📊 Power BI in Manufacturing (Graduation Project)
+- Designed dashboards to improve KPI visibility  
+- Converted complex datasets into actionable insights  
+- Improved operational transparency through data visualization
+
+---
+
+## 🌱 Currently Improving
+- SAP process depth (MM/PP/SD)  
+- Analytics storytelling & dashboard design  
+- Planning / supply chain analytics foundations
+
+---
+
+## 🤝 Let’s Connect
+
+📍 Istanbul, Türkiye  
+📧 **cnsugurcan@gmail.com**  
+📞 **(+90) 551 553 21 14**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/cansu-g-6913771b9  
+🌐 **Portfolio:** https://cansugurcan.github.io  
+
+---
+
+<div align="center">
+
+⭐ *Building smarter systems, clearer insights, and measurable results.*
+
+</div>
